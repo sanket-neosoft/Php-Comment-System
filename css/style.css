@@ -1,0 +1,31 @@
+body {
+    padding-top: 80px;
+}
+
+.logotype {
+    object-fit: cover;
+    object-position: center;
+}
+
+.preview {
+    height: 200px;
+    width: 200px;
+}
+
+.nav-logo {
+    height: 30px;
+    width: 500%;
+}
+
+.wel-logo {
+    height: 100px;
+    width: 80%;
+}
+
+#comments-section {
+    max-height: 400px;
+    min-height: 200px;
+    height: auto;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
